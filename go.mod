@@ -1,4 +1,4 @@
-module github.com/mattgonewild/ledger
+module github.com/ringboundio/ledger
 
 go 1.24.4
 
